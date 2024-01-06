@@ -1,0 +1,38 @@
+## Installing Streamlit
+# Here i am sharing steps to install Streamlit
+
+#Open your PyCharm IDE.
+
+Create a Virtual Environment (Optional but recommended):
+It's a good practice to create a virtual environment for your project to manage dependencies. You can create a virtual environment using the following steps:
+
+#Open PyCharm.
+Go to File -> New Project.
+Choose a location for your project and enable the option "Create a new virtual environment using".
+Select the Python interpreter version you want and click on "Create".
+
+#Open Terminal:
+Open the terminal within PyCharm. You can find the terminal at the bottom of the PyCharm window.
+
+#Install Streamlit:
+In the terminal, use the following command to install Streamlit:
+- pip install streamlit
+This will download and install the Streamlit package along with its dependencies.
+
+Verify Installation:
+After the installation is complete, you can verify that Streamlit is installed correctly by checking its version in the terminal:
+- streamlit --version
+This command should print the installed Streamlit version.
+
+Create a Streamlit App:
+You can now create a Streamlit app. Save your Streamlit code in a file with a .py extension, for example, app.py using
+- import streamlit as st
+
+
+Now you have successfully installed Streamlit in PyCharm 
+
+
+
+
+
+
