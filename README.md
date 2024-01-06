@@ -25,6 +25,15 @@ This tool helps you gain meaningful insights from your WhatsApp conversations.
 
 
 
+1. Clone the repository:
+
+   ```bash
+   https://github.com/injilashah/jubilant-succotash.git
+
+
+
+
+
 
 
 
