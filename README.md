@@ -4,7 +4,7 @@
 ## Overview:
 
 This project is focused on analyzing WhatsApp chat data to extract insights, trends, and patterns. 
-Whether you want to understand group dynamics, individual contributions, emoji analysis.
+Whether you want to understand group dynamics, individual contributions, emoji analysis and so on.
 This tool helps you gain meaningful insights from your WhatsApp conversations.
 
 ## Features:
