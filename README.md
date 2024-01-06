@@ -1,13 +1,13 @@
 # jubilant-succotash
 # WhatsApp Chat Analysis Using Streamlit
 
-## Overview
+## Overview:
 
 This project is focused on analyzing WhatsApp chat data to extract insights, trends, and patterns. 
 Whether you want to understand group dynamics, individual contributions, emoji analysis.
 This tool helps you gain meaningful insights from your WhatsApp conversations.
 
-## Features
+## Features:
 
 - **User Statistics:**  Get statistics on individual user contributions, overall statistics, message counts, and more.
  
