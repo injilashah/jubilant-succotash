@@ -1,0 +1,16 @@
+##Here i am sharing some prerequisites to run this project smoothly on your systems
+## Getting Started
+This app will  run through your local browser 
+In the terminal of your code editor (pycharm) write the command streamlit run app.py after you followed the steps f installation for streamlit in installing streamlit,
+your local browser will open -> now upload your text file and view the rest 
+
+
+
+# Prerequisites and Dependencies
+
+- Python 3.x or older versions installed in your systems
+- Recommended Code editor -> Pycharm and Jupyter Notebook are recommended
+- Streamlit
+
+
+
