@@ -30,6 +30,10 @@ This tool helps you gain meaningful insights from your WhatsApp conversations.
    ```bash
    https://github.com/injilashah/jubilant-succotash.git
 
+2. Clone the repository:
+
+   ```bash
+  pip install -r requirements.txt
 
 
 
