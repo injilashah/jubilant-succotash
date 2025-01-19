@@ -33,7 +33,7 @@ This tool helps you gain meaningful insights from your WhatsApp conversations.
 2. Clone the repository:
 
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 
