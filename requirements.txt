@@ -1,5 +1,0 @@
-streamltit 
-seaborn
-numpy
-matplotlib
-regex
