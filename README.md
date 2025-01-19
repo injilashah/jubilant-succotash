@@ -24,16 +24,17 @@ This tool helps you gain meaningful insights from your WhatsApp conversations.
 
 
 
-
+# Getting stared
 1. Clone the repository:
 
    ```bash
    https://github.com/injilashah/jubilant-succotash.git
 
-2. Clone the repository:
+2. Run these commands:
 
    ```bash
    pip install -r requirements.txt
+   streamlit run app.py
 
 
 
